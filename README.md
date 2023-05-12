@@ -22,3 +22,4 @@ if you want to try them :
 @react-navigation/stack@6.3.16 react-native-gesture-handler@2.10.0 react-native-safe-area-context@4.5.2 react-native-screens@3.20.0`
 
 <img width="1686" alt="Screenshot 2023-05-12 at 6 58 03 PM" src="https://github.com/kaiyes/stackNavigatorFail71/assets/5293742/0eb7adde-cca3-47f8-8b2f-c4a0b87434db">
+<img width="2234" alt="Screenshot 2023-05-12 at 7 20 40 PM" src="https://github.com/kaiyes/stackNavigatorFail71/assets/5293742/7b12339e-44b1-421d-b9a6-bc39bf2fa62d">
