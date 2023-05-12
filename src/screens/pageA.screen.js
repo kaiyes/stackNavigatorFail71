@@ -1,11 +1,5 @@
 import React, { useState } from 'react'
-import {
-  StyleSheet,
-  TouchableOpacity,
-  SafeAreaView,
-  Text,
-  View,
-} from 'react-native'
+import { StyleSheet, TouchableOpacity, Text, View } from 'react-native'
 
 export default function PageA() {
   return (
